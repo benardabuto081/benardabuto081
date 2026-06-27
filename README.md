@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Bernard 👋
 
-<!--
-**benardabuto081/benardabuto081** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI and Software Engineering enthusiast building practical systems.
 
-Here are some ideas to get you started:
+## What I build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Full-stack applications
+- Machine learning solutions
+- AI-powered tools
+
+## Featured Projects
+
+🚀 Rentra
+A rental platform connecting tenants and landlords.
+
+🤖 Scribe AI
+An AI assistant for church service management.
+
+🤖 Vouch Africa
+A B2B2C Escrow As A Service fintech platform for Gig workers and online shoppers.
+
+📊 Zindi ML Portfolio
+Machine learning projects and competition solutions.
+
+## Technologies
+
+Python  
+JavaScript  
+React  
+Node.js  
+Machine Learning  
+Git/GitHub
+
+## Currently learning
+
+- AI Engineering
+- Data Science
+- Software Architecture

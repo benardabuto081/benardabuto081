@@ -1,63 +1,95 @@
+
 # Hi, I'm Bernard Abuto 👋
 
 ## AI Systems Engineer · ML Research Engineer
 
-*Building intelligent systems, data-driven products, and AI infrastructure for African contexts.*
-
-[Portfolio](https://benardabuto.github.io) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/bernard-abuto/) &nbsp;•&nbsp; [Email](mailto:benardabuto081@gmail.com)
+I build *intelligent systems, data-driven products, and AI infrastructure for African contexts*.  
+My work sits at the intersection of *software engineering, machine learning, data engineering, and AI infrastructure* — with a particular interest in building systems that can work with African languages, environments, and real-world constraints.
 
 ---
 
 ## 🚀 What I'm Building
 
-> ### 🧠 Sauti Labs
-> **AI infrastructure for African languages.**  
-> Building foundations for accessible, reliable, and production-ready African-language AI systems.  
-> * **Focus:** AI Infrastructure | Speech AI | African Languages | ML Systems
+### 🧠 [Sauti Labs](https://github.com/benardabuto081)
+*AI infrastructure for African languages.*  
+Sauti Labs is my long-term engineering and research direction: building the foundations required to make African-language AI systems more accessible, reliable, and production-ready.  
+*Focus:* AI Infrastructure · Speech AI · African Languages · ML Systems · Data
 
-> ### 🌾 QueleaGuard
-> **AI-driven agricultural intelligence.**  
-> Researching how environmental, spatial, and agricultural conditions influence Red-billed Quelea occurrence around rice-growing regions in Kenya.  
-> * **Focus:** Machine Learning | Spatial Data Science | Environmental Modelling | Agriculture
+### 🌾 [QueleaGuard](https://github.com/benardabuto081)
+*AI-powered early warning for agricultural pest risk.*  
+A research-driven system studying how environmental, spatial, and agricultural conditions influence Red-billed Quelea occurrence around rice-growing regions in Kenya.  
+*Focus:* Machine Learning · Spatial Data Science · Environmental Modelling · Agriculture · Data Engineering
 
-> ### 🏠 Rentra
-> **Rental infrastructure for African markets.**  
-> Building software infrastructure to improve rental operations for property managers, landlords, and tenants.  
-> * **Focus:** Backend Engineering | APIs | Databases | PropTech
+### 🏠 Rentra
+*Rental infrastructure for African markets.*  
+A PropTech project exploring how software can simplify rental operations and create better digital infrastructure for property managers, landlords, and tenants.  
+*Focus:* Backend Engineering · APIs · Databases · Product Engineering · PropTech
 
 ---
 
-## 🛠️ Technology Stack & Languages
+## 🛠️ Technical Focus
 
-<!-- Colorful Language and Stats Cards -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benardabuto081&layout=compact&theme=tokyonight&hide=html&langs_count=8" alt="Top Languages" />
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benardabuto081&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+### AI / Data
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+</p>
+
+### Software Engineering
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+### Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLOps" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
 
-## 🔬 Research & Engineering Interests
+## 🔬 Areas I'm Exploring
 
-AI Infrastructure &nbsp;•&nbsp; MLOps &nbsp;•&nbsp; Machine Learning Systems &nbsp;•&nbsp; Data Engineering &nbsp;•&nbsp; African Language AI &nbsp;•&nbsp; Speech Technology &nbsp;•&nbsp; Geospatial ML &nbsp;•&nbsp; Applied AI &nbsp;•&nbsp; Production ML
-
----
-
-## 🌍 Engineering Direction
-
-I'm building toward becoming an **AI/MLOps engineer** capable of taking machine learning systems through the complete lifecycle:
-
-### **Data → Models → Infrastructure → Production**
-
-My long-term focus is building **useful, scalable technology for African environments**, while contributing to the systems and infrastructure that make AI more accessible across the continent.
+- AI Infrastructure & MLOps
+- Machine Learning Systems
+- Data Engineering
+- African Language AI
+- Speech & Language Technology
+- Geospatial Machine Learning
+- Applied AI for African problems
+- Production ML systems
 
 ---
 
-## 🤝 Let's Connect
+## 🌍 My Direction
 
-[Portfolio](https://benardabuto.github.io) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/bernard-abuto/) &nbsp;•&nbsp; [Email](mailto:benardabuto081@gmail.com)
+I'm working toward becoming an *AI/MLOps engineer* capable of taking machine learning systems from:  
+*Data → Models → Infrastructure → Production*  
+while building technology that is relevant to African environments and users.
 
-*Building systems. Researching intelligence. Engineering for Africa.*
+---
+
+## 🔗 Find Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=vera&logoColor=white)](https://bernard-portfolio-vert.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+
+---
+
+## Building systems. Researching intelligence. Engineering for Africa.

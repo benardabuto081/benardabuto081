@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=6,11,20,30,45&height=180&section=header&text=AI%20Systems%20%26%20ML%20Engineer&fontSize=26&fontColor=fff&animation=fadeIn&fontAlignY=38" alt="Header Banner" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=6,11,20,30,45&height=180&section=header&text=AI%20Systems%20%26%20ML%20Engineer&fontSize=26&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
 
 ### AI Systems Engineer · ML Research Engineer
 
@@ -81,9 +79,11 @@ A PropTech project exploring how software can simplify rental operations and cre
 
 ### 📊 GitHub Stats & Metrics
 
+### 📊 GitHub Stats & Metrics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benardabuto081&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Benard's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benardabuto081&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=benardabuto081&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" alt="Benard's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benardabuto081&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
 </p>
 ---
 

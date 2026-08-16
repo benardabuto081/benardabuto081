@@ -1,7 +1,7 @@
 
 # Hi, I'm Bernard Abuto 👋
 
-## AI Systems Engineer · ML Research Engineer
+## AI Systems Engineer & ML Researcher
 
 I build *intelligent systems, data-driven products, and AI infrastructure for African contexts*.  
 My work sits at the intersection of *software engineering, machine learning, data engineering, and AI infrastructure* — with a particular interest in building systems that can work with African languages, environments, and real-world constraints.

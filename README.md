@@ -1,6 +1,6 @@
 # Hi, I'm Bernard Abuto 👋
 
-### AI Systems Engineer · Software Engineer · ML Research Engineer
+### AI Systems Engineer · ML Research Engineer
 
 I build **intelligent systems, data-driven products, and AI infrastructure for African contexts**.
 

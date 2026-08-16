@@ -1,4 +1,6 @@
-# Hi, I'm Bernard Abuto 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=6,11,20,30,45&height=180&section=header&text=AI%20Systems%20%26%20ML%20Engineer&fontSize=26&fontColor=fff&animation=fadeIn&fontAlignY=38" alt="Header Banner" />
+</p>
 
 ### AI Systems Engineer · ML Research Engineer
 

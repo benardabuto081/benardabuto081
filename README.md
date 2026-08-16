@@ -122,12 +122,17 @@ while building technology that is relevant to African environments and users.
 
 ## 🔗 Find Me
 
-🌐 **Portfolio:** [bernard-portfolio-vert.vercel.app](https://bernard-portfolio-vert.vercel.app/)
-
-💼 **LinkedIn:** [linkedin.com/in/bernard-abuto](https://www.linkedin.com/in/bernard-abuto/)
-
-📧 **Email:** `benardabuto081@gmail.com`
-
+<p>
+  <a href="https://bernard-portfolio-vert.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=vera&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/bernard-abuto" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:benardabuto081@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 ---
 
 ### *Building systems. Researching intelligence. Engineering for Africa.*

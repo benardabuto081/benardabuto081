@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=6,11,20,30,45&height=180&section=header&text=AI%20Systems%20%26%20ML%20Engineer&fontSize=26&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+
 # Hi, I'm Bernard Abuto 👋
 
 ## AI Systems Engineer · ML Research Engineer
@@ -29,29 +31,49 @@ A PropTech project exploring how software can simplify rental operations and cre
 ## 🛠️ Technical Focus
 
 ### Languages
-* **Python**
-* **TypeScript**
-* **JavaScript**
-* **SQL**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
 
 ### AI / Data
-* **Machine Learning**
-* **PyTorch**
-* **Pandas**
-* **Scikit-Learn**
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+</p>
 
 ### Software Engineering
-* **Next.js**
-* **NestJS**
-* **PostgreSQL**
-* **Redis**
-* **Git**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ### Infrastructure
-* **Docker**
-* **CI/CD**
-* **MLOps**
-* **Linux**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLOps" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=benardabuto081&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Benard's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benardabuto081&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
@@ -88,9 +110,8 @@ while building technology that is relevant to African environments and users.
 
 ## 🔗 Find Me
 
-* **Portfolio:** [bernard-portfolio-vert.vercel.app](https://bernard-portfolio-vert.vercel.app)
-* **LinkedIn:** [Connect with me](https://linkedin.com)
-* **Email:** [benardabuto081@gmail.com](mailto:benardabuto081@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=vera&logoColor=white)](https://bernard-portfolio-vert.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 ---
 

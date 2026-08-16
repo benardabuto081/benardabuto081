@@ -20,7 +20,7 @@ Sauti Labs is my long-term engineering and research direction: building the foun
 A research-driven system studying how environmental, spatial, and agricultural conditions influence Red-billed Quelea occurrence around rice-growing regions in Kenya.  
 *Focus:* Machine Learning · Spatial Data Science · Environmental Modelling · Agriculture · Data Engineering
 
-### 🏠 Rentra
+### 🏠 [Rentra](https://github.com/benardabuto081/rentra-backend)
 *Rental infrastructure for African markets.*  
 A PropTech project exploring how software can simplify rental operations and create better digital infrastructure for property managers, landlords, and tenants.  
 *Focus:* Backend Engineering · APIs · Databases · Product Engineering · PropTech

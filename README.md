@@ -12,7 +12,7 @@ I'm particularly interested in **African language AI, environmental intelligence
 
 ## 🚀 What I'm Building
 
-### 🧠 [Sauti Labs](https://github.com/benardabuto081)
+### 🧠 [Sauti Labs](https://github.com/benardabuto081/Sauti Labs)
 
 **AI infrastructure for African languages.**
 
@@ -20,7 +20,7 @@ Sauti Labs is my long-term engineering and research direction: building the data
 
 `AI Infrastructure` · `Speech AI` · `African Languages` · `ML Systems`
 
-### 🌾 [QueleaGuard](https://github.com/benardabuto081)
+### 🌾 [QueleaGuard](https://github.com/benardabuto081/Queleaguard)
 
 **Researching machine learning for agricultural intelligence.**
 

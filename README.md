@@ -12,7 +12,7 @@ I'm particularly interested in **African language AI, environmental intelligence
 
 ## 🚀 What I'm Building
 
-### 🧠 [Sauti Labs](https://github.com/benardabuto081/SautiLabs)
+### 🧠 [Sauti Labs](https://github.com/Sauti-Labs)
 
 **AI infrastructure for African languages.**
 

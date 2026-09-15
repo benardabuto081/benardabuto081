@@ -106,4 +106,3 @@ My goal is to engineer AI systems that are not only technically capable, but **u
 
 ### Building systems. Researching intelligence. Engineering for Africa.
 
-<img src="https://metrics.lecoq.io/benardabuto081?template=classic&base=activity,community,repositories,metadata&config.timezone=Africa%2FNairobi" alt="Metrics" />

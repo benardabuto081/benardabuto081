@@ -1,4 +1,6 @@
-<div align="center">
+<table>
+<tr>
+<td width="70%" valign="middle">
 
 # BERNARD ABUTO
 
@@ -6,6 +8,15 @@
 
 **African Language AI · Machine Learning Systems · Research Engineering**
 
+</td>
+
+<td width="30%" align="center">
+
+<img src="./bernard.jpg" width="200" />
+
+</td>
+</tr>
+</table>
 <p>
   <a href="https://github.com/benardabuto081">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>

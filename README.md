@@ -1,13 +1,13 @@
 <table>
 <tr>
 
-<td width="30%" align="center" valign="middle">
+<td width="28%" align="center" valign="middle">
 
-<img src="./bernard.jpg" width="200" />
+<img src="./bernard.jpg" width="135" />
 
 </td>
 
-<td width="70%" valign="middle">
+<td width="72%" valign="middle">
 
 # BERNARD ABUTO
 
@@ -15,8 +15,8 @@
 
 **African Language AI · Machine Learning Systems · Research Engineering**
 
-I work at the intersection of machine learning research and systems engineering,<br>
-developing the infrastructure, models, and tools needed to build AI technologies<br>
+I work at the intersection of machine learning research and systems engineering,
+developing the infrastructure, models, and tools needed to build AI technologies
 for African languages and real-world challenges.
 
 </td>

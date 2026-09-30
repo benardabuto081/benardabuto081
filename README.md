@@ -219,14 +219,6 @@ A major part of that direction is contributing to the development of **African A
 
 ---
 
-## 07 — Education
-
-**Open University of Kenya**
-
-Currently pursuing my degree while developing practical experience through machine learning research, systems engineering, software development, and technical research projects.
-
----
-
 ## 08 — Connect
 
 If you're working on **African language AI, machine learning research, research software, AI systems, or applied ML**, I'd be interested in connecting.

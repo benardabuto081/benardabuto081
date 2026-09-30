@@ -1,108 +1,249 @@
-# Hi, I'm Bernard Abuto 👋
+<div align="center">
 
-## AI Systems Engineer & ML Researcher
+# BERNARD ABUTO
 
-I build **intelligent systems and the infrastructure behind them**, while researching how machine learning can be applied to real-world problems in African contexts.
+### Machine Learning Research Engineer · AI Systems Engineer
 
-My work sits at the intersection of **AI systems engineering and machine learning research** — from building data and model pipelines to developing software around intelligent systems and investigating how models perform in real-world environments.
+**African Language AI · Machine Learning Systems · Research Engineering**
 
-I'm particularly interested in **African language AI, environmental intelligence, spatial machine learning, and production-ready ML systems**.
+<p>
+  <a href="https://github.com/benardabuto081">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bernard-abuto-888207343/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://bernard-portfolio-vert.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
----
-
-## 🚀 What I'm Building
-
-### 🧠 [Sauti Labs](https://github.com/Sauti-Labs)
-
-**AI infrastructure for African languages.**
-
-Sauti Labs is my long-term engineering and research direction: building the data, tooling, and system foundations needed to make African-language AI more accessible, reliable, and deployable.
-
-`AI Infrastructure` · `Speech AI` · `African Languages` · `ML Systems`
-
-### 🌾 [QueleaGuard](https://github.com/benardabuto081/Queleaguard)
-
-**Researching machine learning for agricultural intelligence.**
-
-QueleaGuard investigates how environmental, spatial, and agricultural conditions influence Red-billed Quelea occurrence around rice-growing regions in Kenya — turning heterogeneous environmental data into models for understanding and forecasting pest risk.
-
-`Machine Learning` · `Spatial Data Science` · `Environmental Modelling` · `Agriculture`
-
-### 🏠 [Rentra](https://github.com/benardabuto081/rentra-backend)
-
-**Building digital infrastructure for rental operations in Africa.**
-
-Rentra explores how software can simplify property management by connecting landlords, property managers, and tenants through a unified digital platform.
-
-`Product Engineering` · `Backend Systems` · `APIs` · `PropTech`
+</div>
 
 ---
 
-## 🔬 Research & Engineering Interests
+## 01 — Research & Engineering
 
-* Machine Learning Systems
-* AI Infrastructure & MLOps
-* African Language AI
-* Speech & Language Technology
-* Geospatial Machine Learning
-* Environmental Intelligence
-* Applied Machine Learning
-* Production ML Systems
+I build **machine learning systems and research infrastructure** at the intersection of **AI systems engineering, African language technology, and applied machine learning**.
+
+My work focuses on taking problems from **data and research questions through experimentation, engineering, evaluation, and eventually usable AI systems**.
+
+I am particularly interested in the challenges of building AI for **African languages and African environments** — where limited data, linguistic diversity, infrastructure constraints, and real-world deployment conditions create research problems of their own.
+
+Currently pursuing my degree at the **Open University of Kenya** while building research and engineering experience through hands-on work.
 
 ---
 
-## 🛠️ Technical Stack
+## 02 — What I'm Building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Sauti Labs
+
+**African Speech & Language Technology**
+
+I am building **Sauti Labs** as an African AI research and technology organisation focused on speech, language, and machine learning systems.
+
+The platform brings together:
+
+`Language Data`
+`Speech & Audio`
+`Language AI`
+`Machine Learning`
+`Model Development`
+`Research & Evaluation`
+`AI Infrastructure`
+`AI Products`
+
+Current technical work spans the foundations required to build African-language AI systems — from language resources and data infrastructure through model development, evaluation, inference, and research.
+
+**Role:** Founder · CEO · Chief Research Officer
+
+→ [Explore Sauti Labs](https://github.com/Sauti-Labs)
+
+</td>
+
+<td width="50%" valign="top">
+
+### QueleaGuard
+
+**Applied Machine Learning Research**
+
+QueleaGuard is my current research project investigating **Red-billed Quelea occurrence and habitat suitability in rice-growing landscapes in western Kenya**.
+
+The work combines environmental, climatic, vegetation, terrain, hydrological, and agricultural data to study the spatial conditions associated with quelea occurrence.
+
+Current research areas include:
+
+`Geospatial Data`
+`Environmental Modelling`
+`Spatial ML`
+`Remote Sensing`
+`Agricultural Intelligence`
+
+→ [Explore QueleaGuard](https://github.com/benardabuto081/Queleaguard)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 03 — Research Interests
+
+### African Language AI
+
+Researching the machine learning problems surrounding African speech and language:
+
+* Low-resource and multilingual NLP
+* Automatic Speech Recognition
+* Text-to-Speech and speech technologies
+* African-language datasets and benchmarks
+* Language model adaptation
+* Model evaluation for African languages
+* Speech and language resources for underrepresented languages
+
+### Machine Learning Systems
+
+Interested in the engineering layer that makes ML research reproducible and usable:
+
+* Data and dataset engineering
+* ML experimentation
+* Training infrastructure
+* Evaluation and benchmarking
+* Model adaptation and inference
+* Reproducible research workflows
+* Research-to-system engineering
+
+### Applied Machine Learning
+
+Using machine learning to investigate problems grounded in the physical world:
+
+* Geospatial machine learning
+* Environmental modelling
+* Remote sensing
+* Agricultural intelligence
+* Spatial and temporal data
+
+---
+
+## 04 — Engineering
 
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-### AI & Data
+### Systems & Infrastructure
 
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-### Software & Infrastructure
+### ML & Data
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Python_Data-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+</p>
+
+### Application Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 </p>
 
 ---
 
-## 🌍 What I'm Working Toward
+## 05 — How I Think About ML Systems
 
-I'm building toward a career in **AI systems and machine learning engineering**, with a long-term focus on the systems that take intelligence from research to reality:
+```text
+                DATA
+                  │
+                  ▼
+        ┌──────────────────┐
+        │ Research Question │
+        └────────┬─────────┘
+                 │
+                 ▼
+        ┌──────────────────┐
+        │ Experimentation  │
+        └────────┬─────────┘
+                 │
+                 ▼
+              MODEL
+                 │
+                 ▼
+        ┌──────────────────┐
+        │    Evaluation    │
+        └────────┬─────────┘
+                 │
+                 ▼
+             SYSTEM
+                 │
+                 ▼
+        ┌──────────────────┐
+        │ Real-world Use   │
+        └──────────────────┘
+```
 
-**Data → Models → Systems → Infrastructure → Production**
-
-My goal is to engineer AI systems that are not only technically capable, but **useful, deployable, and relevant to the environments they are built for.**
+I am interested in the engineering problems **between research and deployment** — building the data, experimentation, evaluation, infrastructure, and software required to make machine learning research reproducible and useful.
 
 ---
 
-## 🔗 Find Me
+## 06 — Current Direction
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge\&logo=vercel\&logoColor=white)](https://bernard-portfolio-vert.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com)
+My long-term direction is **machine learning research engineering and AI systems**.
+
+I want to work where:
+
+**machine learning research**
+meets
+**systems engineering**
+meets
+**real-world problems**.
+
+A major part of that direction is contributing to the development of **African AI technologies, research datasets, benchmarks, models, and open technical infrastructure**.
 
 ---
 
-### Building systems. Researching intelligence. Engineering for Africa.
+## 07 — Education
 
+**Open University of Kenya**
+
+Currently pursuing my degree while developing practical experience through machine learning research, systems engineering, software development, and technical research projects.
+
+---
+
+## 08 — Connect
+
+If you're working on **African language AI, machine learning research, research software, AI systems, or applied ML**, I'd be interested in connecting.
+
+<p>
+  <a href="https://www.linkedin.com/in/bernard-abuto-888207343/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://bernard-portfolio-vert.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+**Researching intelligence · Engineering systems · Building for Africa**
+
+</div>

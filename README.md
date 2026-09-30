@@ -1,5 +1,12 @@
 <table>
 <tr>
+
+<td width="30%" align="center" valign="middle">
+
+<img src="./bernard.jpg" width="200" />
+
+</td>
+
 <td width="70%" valign="middle">
 
 # BERNARD ABUTO
@@ -8,13 +15,12 @@
 
 **African Language AI · Machine Learning Systems · Research Engineering**
 
-</td>
-
-<td width="30%" align="center">
-
-<img src="./bernard.jpg" width="200" />
+I build machine learning systems and research infrastructure
+at the intersection of AI systems engineering, African language
+technology, and applied machine learning.
 
 </td>
+
 </tr>
 </table>
 <p>

@@ -15,9 +15,9 @@
 
 **African Language AI · Machine Learning Systems · Research Engineering**
 
-I build machine learning systems and research infrastructure
-at the intersection of AI systems engineering, African language
-technology, and applied machine learning.
+I work at the intersection of machine learning research and systems engineering,<br>
+developing the infrastructure, models, and tools needed to build AI technologies<br>
+for African languages and real-world challenges.
 
 </td>
 

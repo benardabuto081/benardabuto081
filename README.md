@@ -3,7 +3,7 @@
 
 <td width="28%" align="center" valign="middle">
 
-<img src="./bernard.jpg" width="135" />
+<img src="./bernard.jpg" width="100%" />
 
 </td>
 
@@ -15,9 +15,7 @@
 
 **African Language AI · Machine Learning Systems · Research Engineering**
 
-I work at the intersection of machine learning research and systems engineering,
-developing the infrastructure, models, and tools needed to build AI technologies
-for African languages and real-world challenges.
+I work at the intersection of machine learning research and systems engineering, developing the infrastructure, models, and tools needed to build AI technologies for African languages and real-world challenges.
 
 </td>
 

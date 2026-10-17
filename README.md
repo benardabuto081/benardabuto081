@@ -239,9 +239,6 @@ If you're working on **African language AI, machine learning research, research 
   <a href="https://www.linkedin.com/in/bernard-abuto-888207343/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://bernard-portfolio-vert.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
 </p>
 
 ---
